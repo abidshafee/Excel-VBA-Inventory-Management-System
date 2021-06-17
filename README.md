@@ -1,5 +1,9 @@
 # Excel-VBA-Inventory-Management-System
-### To use this product one may need to *eable* **Macro** in excel using following procedure>>
+#### To run the app download the **.xlsm** file and open it Microsoft excel. 
+#### Go to developer tab >> Select Visual Basic 
+#### Toggle Folder -> Forms >> Double click crud_app>> Then run Sub (triangular green button)
+### To use this product one may need to *eable* **Macro** in excel 
+####Enable Macro using following procedure>>
 1. Click the **File** tab
 2. Select **Option** to Open *Excel Option*
 3. Click **Trust Center** and Open **Trust center** setting
