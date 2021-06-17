@@ -1,9 +1,9 @@
 # Excel-VBA-Inventory-Management-System
-#### To run the app download the **.xlsm** file and open it Microsoft excel. 
-#### Go to developer tab >> Select Visual Basic 
-#### Toggle Folder -> Forms >> Double click crud_app>> Then run Sub (triangular green button)
+#### To run the app download the **.xlsm** file and open it Microsoft Excel. 
+#### Go to the **Developer** tab >> Select **Visual Basic** 
+#### From the **Toggle Folder** -> Forms >> Double click on the **crud_app**>> Then **run Sub** (triangular green button)
 ### To use this product one may need to *eable* **Macro** in excel 
-####Enable Macro using following procedure>>
+#### Enable Macro using following procedure>>
 1. Click the **File** tab
 2. Select **Option** to Open *Excel Option*
 3. Click **Trust Center** and Open **Trust center** setting
@@ -18,7 +18,6 @@
 2. Under Customize the Ribbon and under Main Tabs, *select* the **Developer** check box.
 
 #### The Developer tab is the place to go when you want to do or use the following:
-
 - Write macros.
 - Run macros that you previously recorded.
 - Use XML commands.
