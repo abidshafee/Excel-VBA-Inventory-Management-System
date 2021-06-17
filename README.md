@@ -1,5 +1,5 @@
 # Excel-VBA-Inventory-Management-System
-### To use this product one may need to eable macro in excel using following procedure>>
+### To use this product one may need to *eable* **Macro** in excel using following procedure>>
 1. Click the **File** tab
 2. Select **Option** to Open *Excel Option*
 3. Click **Trust Center** and Open **Trust center** setting
