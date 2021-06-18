@@ -1,4 +1,6 @@
 # Excel-VBA-Inventory-Management-System
+![image](https://user-images.githubusercontent.com/11525956/122514388-b8f37200-d02d-11eb-8ccb-b1af64eb3d7b.png)
+
 #### To run the app download the **.xlsm** file and open it Microsoft Excel. 
 #### Go to the **Developer** tab >> Select **Visual Basic** 
 #### From the **Toggle Folder** -> Forms >> Double click on the **crud_app**>> Then **run Sub** (triangular green button)
