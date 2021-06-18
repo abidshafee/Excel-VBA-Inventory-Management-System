@@ -1,5 +1,5 @@
 # Excel-VBA-Inventory-Management-System
-![image](https://user-images.githubusercontent.com/11525956/122515462-4be0dc00-d02f-11eb-8024-0119265e9534.png)
+![image](https://user-images.githubusercontent.com/11525956/122584231-eb2bc080-d07b-11eb-8a48-91e4c4c18ef2.png)
 
 #### To run the app download the **.xlsm** file and open it Microsoft Excel. 
 #### Go to the **Developer** tab >> Select **Visual Basic** 
